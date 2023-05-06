@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-Mario-Dino/static/css/main.44146f84.css",
+    "main.js": "/React-Mario-Dino/static/js/main.ba5d9923.js",
+    "static/media/running-about.mp3": "/React-Mario-Dino/static/media/running-about.d1d8b7c0e0b97bddeebf.mp3",
+    "static/media/brick.svg": "/React-Mario-Dino/static/media/brick.44708ef6c516df1897fc.svg",
+    "static/media/mario-run.gif": "/React-Mario-Dino/static/media/mario-run.fd7bdc0892c38f605211.gif",
+    "static/media/koopa.gif": "/React-Mario-Dino/static/media/koopa.1f04618966574b6da392.gif",
+    "static/media/mario-died.mp3": "/React-Mario-Dino/static/media/mario-died.1e9239162bd239b0f088.mp3",
+    "static/media/Pixel_NES.otf": "/React-Mario-Dino/static/media/Pixel_NES.40064b60bb79b4ffa4a6.otf",
+    "static/media/birds.gif": "/React-Mario-Dino/static/media/birds.a9f99bdbc6f01b4bdb6d.gif",
+    "static/media/mario.png": "/React-Mario-Dino/static/media/mario.0624e0f9ba9b0ba568de.png",
+    "static/media/clouds.gif": "/React-Mario-Dino/static/media/clouds.445aed1b0167b52e7ea5.gif",
+    "static/media/sun.gif": "/React-Mario-Dino/static/media/sun.660dbb9207c401cc1488.gif",
+    "static/media/mario-jump.mp3": "/React-Mario-Dino/static/media/mario-jump.007acee8d04f16104409.mp3",
+    "index.html": "/React-Mario-Dino/index.html",
+    "main.44146f84.css.map": "/React-Mario-Dino/static/css/main.44146f84.css.map",
+    "main.ba5d9923.js.map": "/React-Mario-Dino/static/js/main.ba5d9923.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44146f84.css",
+    "static/js/main.ba5d9923.js"
+  ]
+}
